@@ -6,9 +6,10 @@
 * Clone [NvChad](https://github.com/NvChad/NvChad) repository.
 * Clone this repository with the following command
     For Windows : `git clone https://github.com/gitKashish/nvim-config ~/appdata/local/nvim/lua/custom --depth 1`
+    
     For Linux : `git clone https://github.com/gitKashis/nvim-config ~/.config/nvim/lua/custom --depth 1`
 
-    ***For Linux, remove all the lines from the `~/.config/lua/custom/init.lua` file***
+* ***For Linux, remove all the lines from the `~/.config/lua/custom/init.lua` file***
 
 ## Currently added custom mappings
 
