@@ -4,7 +4,6 @@
 M.general = {
   n = {
     [";"] = { ":", "enter command mode", opts = { nowait = true } },
-    ["<leader>ww"] = { "<cmd> w <CR>", "Save file" },
     ["<leader>q"] = { "<cmd> q <CR>", "Quit NeoVim" },
 
     -- git
