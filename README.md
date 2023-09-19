@@ -25,4 +25,5 @@
 * `<C-Up>` : Increase window height
 * `<C-Down>` : Decrease window height
 * `<C-Left>` : Increase window breadth
-* `<C-Right>` : Decresae window breadth
+* `<C-Right>` : Decrease window breadth
+* Changed windows shell to Powershell
